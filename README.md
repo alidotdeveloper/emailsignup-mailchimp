@@ -1,4 +1,4 @@
-
+https://github.com/alidotdeveloper/emailsignup-mailchimp/blob/main/Preview%20image.png
 
 # Newsletter Signup
 
